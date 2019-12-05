@@ -1,0 +1,531 @@
+@media(min-width:992px) and (max-width:1199px) {
+    .banner_content h1 {
+        font-size: 52px;
+        letter-spacing: 20px;
+        line-height: 75px;
+    }
+
+    .banner_content h4 {
+        font-size: 23px;
+    }
+
+    .banner_content p {
+        font-size: 14px;
+    }
+
+    .banner_content img {
+        padding: 50px 0;
+        width: 120px;
+    }
+
+    .banner_item .container {
+        margin-top: 30px;
+    }
+
+    .banner_item {
+        height: 480px;
+    }
+
+    #about-part {
+        padding: 50px 0 0px 0;
+    }
+
+    .about-items {
+        padding: 35px 25px;
+    }
+
+    .overlay h1 {
+        font-size: 22px;
+    }
+
+    .work-items .overlay {
+        padding: 10px;
+    }
+
+    .overlay p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+
+    #contact-part {
+        padding: 50px 0px 0 0px;
+    }
+
+}
+
+
+@media(min-width:768px) and (max-width:991px) {
+
+    /*******************
+            banner 
+    ********************/
+    .banner_content h1 {
+        font-size: 42px;
+        letter-spacing: 12px;
+        line-height: 75px;
+    }
+
+    .banner_content h4 {
+        font-size: 21px;
+    }
+
+    .banner_content p {
+        font-size: 12px;
+    }
+
+    .banner_content a {
+        padding: 10px 25px;
+    }
+
+    .banner_content img {
+        padding: 30px 0;
+        width: 90px;
+    }
+
+    .banner_item .container {
+        margin-top: 30px;
+    }
+
+    .banner_item {
+        height: 480px;
+    }
+
+    /*******************
+            About 
+    ********************/
+    #about-part {
+        padding: 50px 0 0px 0;
+    }
+
+    .heading h1 {
+        font-size: 40px;
+    }
+
+    .heading img {
+        padding: 20px 0px;
+    }
+
+    .heading p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .heading p span {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .ab-m {
+        margin: 46px 0px 50px 0px;
+    }
+
+    .about-items {
+        padding: 35px 0;
+    }
+
+    /*******************
+            Service 
+    ********************/
+    #services-part {
+        padding: 40px 0px 50px 0px;
+    }
+
+    .service-items {
+        padding-right: 50px;
+    }
+
+    .service-items h1 {
+        padding: 10px 0px;
+    }
+
+    /*******************
+            Work 
+    ********************/
+    #work-part {
+        padding-top: 50px;
+    }
+
+    .overlay h1 {
+        font-size: 22px;
+    }
+
+    .work-items .overlay {
+        padding: 15px;
+    }
+
+    .overlay p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+
+    /*******************
+            Contact 
+    ********************/
+    #contact-part {
+        padding: 50px 0px 0 0px;
+    }
+
+    .button button {
+        font-size: 13px;
+        padding: 10px 28px;
+        margin-top: 30px;
+    }
+
+    .form-part-two textarea {
+        height: 90px;
+    }
+
+    .form-part-two label {
+        font-size: 14px;
+    }
+
+    .form-part-one {
+        margin-bottom: 30px;
+    }
+
+    .form-control {
+        height: 30px;
+        font-size: 14px;
+    }
+
+    #contact-form {
+        background: #0b0b0b;
+        color: #7e8287;
+        padding: 36px 0;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /*******************
+            banner 
+    ********************/
+    .banner_content h1 {
+        font-size: 32px;
+        letter-spacing: 8px;
+        line-height: 50px;
+    }
+
+    .banner_content h4 {
+        font-size: 19px;
+    }
+
+    .banner_content p {
+        font-size: 12px;
+    }
+
+    .banner_content a {
+        padding: 6px 15px;
+        font-size: 12px;
+    }
+
+    .banner_content img {
+        padding: 18px 0;
+        width: 70px;
+    }
+
+    .banner_item .container {
+        margin-top: 20px;
+    }
+
+    .banner_item {
+        height: 342px;
+    }
+
+    /*******************
+            About 
+    ********************/
+    #about-part {
+        padding: 30px 0 0px 0;
+    }
+
+    .heading h1 {
+        font-size: 30px;
+    }
+
+    .heading img {
+        padding: 15px 0px;
+    }
+
+    .heading p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .heading p span {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .ab-m {
+        margin: 36px 0px 50px 0px;
+    }
+
+    .ab-items {
+        margin-bottom: 25px;
+    }
+
+    .about-items {
+        padding: 15px 20px;
+    }
+
+    .ab-items:nth-child(2) {
+        border: none;
+    }
+
+    /*******************
+            Service 
+    ********************/
+    #services-part {
+        padding: 30px 0px 40px 0px;
+    }
+
+    .service-items {
+        padding-right: 50px;
+    }
+
+    .service-items h1 {
+        padding: 10px 0px;
+    }
+
+    /*******************
+            Work 
+    ********************/
+    #work-part {
+        padding-top: 30px;
+    }
+
+    .wr-bp {
+        padding-top: 35px;
+    }
+
+    .overlay h1 {
+        margin-bottom: 10px;
+    }
+
+    .work-items .overlay {
+        padding: 15px;
+    }
+
+    .overlay p {
+        font-size: 15px;
+    }
+
+    /*******************
+            Contact 
+    ********************/
+    #contact-part {
+        padding: 30px 0px 0 0px;
+    }
+
+    .button button {
+        font-size: 13px;
+        padding: 10px 28px;
+        margin-top: 30px;
+    }
+
+    .form-part-two textarea {
+        height: 90px;
+    }
+
+    .form-part-two label {
+        font-size: 14px;
+    }
+
+    .form-part-one {
+        margin-bottom: 30px;
+    }
+
+    .form-control {
+        height: 30px;
+        font-size: 14px;
+    }
+
+    #contact-form {
+        background: #0b0b0b;
+        color: #7e8287;
+        padding: 36px 0;
+    }
+
+}
+
+@media(max-width:575px) {
+
+    /*******************
+            banner 
+    ********************/
+    .banner_content h1 {
+        font-size: 25px;
+        letter-spacing: 2px;
+        line-height: 40px;
+    }
+
+    .banner_content h4 {
+        font-size: 13px;
+    }
+
+    .banner_content p {
+        font-size: 10px;
+    }
+
+    .banner_content a {
+        padding: 6px 15px;
+        font-size: 12px;
+    }
+
+    .banner_content img {
+        padding: 12px 0;
+        width: 50px;
+    }
+
+    .banner_item .container {
+        margin-top: 20px;
+    }
+
+    .banner_item {
+        height: 230px;
+    }
+
+    .banner_dots {
+        display: none !important;
+    }
+
+    .btn-right {
+        right: 10px;
+    }
+
+    .btn-left {
+        left: 10px;
+    }
+
+    /*******************
+            About 
+    ********************/
+    #about-part {
+        padding: 15px 0 0px 0;
+    }
+
+    .heading h1 {
+        font-size: 22px;
+    }
+
+    .heading img {
+        padding: 0;
+    }
+
+    .heading p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .heading p span {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .ab-m {
+        margin: 36px 0px 0px 0px;
+    }
+
+    .ab-items {
+        margin-bottom: 25px;
+    }
+
+    .about-items {
+        padding: 5px 60px;
+    }
+
+    .ab-items {
+        border: none;
+    }
+
+    /*******************
+            Service 
+    ********************/
+    #services-part {
+        padding: 20px 0px 30px 0px;
+        text-align: center;
+    }
+
+    .service-items {
+        padding-right: 0;
+        padding: 0 50px;
+    }
+
+    .service-items h1 {
+        padding: 10px 0px;
+    }
+
+    /*******************
+            Work 
+    ********************/
+    #work-part {
+        padding-top: 30px;
+    }
+
+    .wr-bp {
+        padding-top: 35px;
+    }
+
+    .overlay h1 {
+        margin-bottom: 10px;
+    }
+
+    .work-items .overlay {
+        padding: 15px;
+    }
+
+    .overlay {
+        font-size: 15px;
+        display: none;
+    }
+
+    /*******************
+            Contact 
+    ********************/
+    #contact-part {
+        padding: 30px 0px 0 0px;
+    }
+
+    .button button {
+        font-size: 12px;
+        padding: 6px 20px;
+        margin-top: 30px;
+    }
+
+    .form-part-two textarea {
+        height: 60px;
+    }
+
+    .form-part-two label {
+        font-size: 14px;
+    }
+
+    .form-part-one {
+        margin-bottom: 15px;
+    }
+    .form-part-two {
+    margin-top: 5px;
+    }
+
+    .form-control {
+        height: 20px;
+        font-size: 12px;
+    }
+
+    #contact-form {
+        background: #0b0b0b;
+        color: #7e8287;
+        padding: 26px 0;
+    }
+    .copyright {
+    padding: 6px 0px;
+    }
+    .backtop i {
+        font-size: 28px;
+    }
+    .backtop{
+        bottom: 10px;
+    }
+}
